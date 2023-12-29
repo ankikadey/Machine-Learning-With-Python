@@ -35,10 +35,16 @@ pip install scikit-learn
 
 ### Usage
 
-- Clone the repository
+- Clone the repository:
 
 ```bash
 git clone https://github.com/ankikadey/Machine-Learning-With-Python.git
 cd Machine-Learning-With-Python
 cd Diabetes-Detection-Using-NB
 ```
+- Run the diabetes diagnosis script:
+
+```bash
+python Diabetes.py
+```
+
