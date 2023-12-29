@@ -9,6 +9,7 @@
   - [Description](#description-1)
   - [Dependencies](#dependencies-1)
   - [Usage](#usage-1)
+- [Notebook](#notebook)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -80,3 +81,10 @@ cd Iris Classification Using Neural Network
 ```bash
 python Iris-with-keras.py
 ```
+
+## Notebooks
+
+You can view the Jupyter Notebooks in this project using the following links:
+
+- [Diabetes Diagnosis Notebook](https://nbviewer.jupyter.org/github/ankikadey/dMachine-Learning-With-Python/blob/main/Diabetes.ipynb)
+- [Iris Classification Notebook](https://github.com/ankikadey/Machine-Learning-With-Python/blob/main/Iris%20Classification%20Using%20Neural%20Network/Iris-with-keras.ipynb)
