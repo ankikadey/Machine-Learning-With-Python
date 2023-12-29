@@ -65,3 +65,18 @@ To install the required dependencies, run:
 ```bash
 pip install tensorflow keras
 ```
+
+### Usage
+
+- Clone the repository:
+
+```bash
+git clone https://github.com/ankikadey/Machine-Learning-With-Python.git
+cd Machine-Learning-With-Python
+cd Iris Classification Using Neural Network
+```
+- Run the Iris Classification script:
+
+```bash
+python Iris-with-keras.ipynb
+```
