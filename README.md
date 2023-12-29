@@ -48,3 +48,20 @@ cd Diabetes-Detection-Using-NB
 python Diabetes.py
 ```
 
+## Iris Classification with Keras
+
+### Description
+
+The Iris classification script (`Iris-with-keras.ipynb`) is focused on classifying Iris flowers into different species using a deep learning model built with the Keras library. The dataset used is the well-known Iris dataset, which is included in scikit-learn.
+
+### Dependencies
+
+- Python 3.x
+- TensorFlow
+- Keras
+
+To install the required dependencies, run:
+
+```bash
+pip install tensorflow keras
+```
