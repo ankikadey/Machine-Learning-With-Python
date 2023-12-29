@@ -86,5 +86,5 @@ python Iris-with-keras.py
 
 You can view the Jupyter Notebooks in this project using the following links:
 
-- [Diabetes Diagnosis Notebook](https://nbviewer.jupyter.org/github.com/ankikadey/Machine-Learning-With-Python/blob/main/Diabetes-Detection-Using-NB/Diabetes.ipynb)
-- [Iris Classification Notebook](https://nbviewer.jupyter.org/github.com/ankikadey/Machine-Learning-With-Python/blob/main/Iris%20Classification%20Using%20Neural%20Network/Iris-with-keras.ipynb)
+- [Diabetes Diagnosis Notebook](https://github.com/ankikadey/Machine-Learning-With-Python/blob/main/Diabetes-Detection-Using-NB/Diabetes.ipynb)
+- [Iris Classification Notebook](https://github.com/ankikadey/Machine-Learning-With-Python/blob/main/Iris%20Classification%20Using%20Neural%20Network/Iris-with-keras.ipynb)
