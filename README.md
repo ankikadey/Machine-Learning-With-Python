@@ -78,5 +78,5 @@ cd Iris Classification Using Neural Network
 - Run the Iris Classification script:
 
 ```bash
-python Iris-with-keras.ipynb
+python Iris-with-keras.py
 ```
